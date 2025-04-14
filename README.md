@@ -29,7 +29,8 @@ The analysis includes various data processing techniques such as missing values 
 
 ## Dataset
 
-The dataset used for this analysis comes from the **India Data Portal** and contains detailed employment data under MGNREGA at various levels (state, district, block, and gram panchayat). The dataset includes key metrics such as employment demand, person-days generated, job card issuance, and additional benefits provided under MGNREGA.
+The dataset used for this analysis comes from the **India Data Portal** and contains detailed employment data under MGNREGA at various levels (state, district, block, and gram panchayat). The dataset includes key metrics such as employment demand, person-days generated, job card issuance, and additional benefits provided under MGNREGA. Link for the data set:
+https://indiadataportal.com/p/mgnrega-mahatma-gandhi-national-rural-employment-guarantee-act/r/mord-mgnrega_employment_generated-gp-yr-aaa
 
 ---
 
